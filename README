@@ -1,4 +1,4 @@
-Lista de exercícios
+**Lista de exercícios**
 
 
 - [x]  **Nível Básico:**
@@ -50,16 +50,25 @@ Lista de exercícios
     - [ ]  Implementar uma tabela hash.
     - [ ]  Implementar um trie.
     - [ ]  Implementar um bloom filter.
-- [ ]  **Recursos Adicionais:**
-- [ ]  Lista de Exercícios de Algoritmos e Estruturas de Dados:
-- [ ]  Problemas de Programação: https://www.urionlinejudge.com.br/
-- [ ]  GeeksforGeeks: https://www.geeksforgeeks.org/
-- [ ]  LeetCode: https://leetcode.com/
-- [ ]  **Dicas:**
-- [ ]  Comece com os exercícios mais simples e avance gradualmente para os mais complexos.
-- [ ]  Faça uma boa leitura e compreensão do problema antes de começar a codificar.
-- [ ]  Teste seu código cuidadosamente e corrija os erros que encontrar.
-- [ ]  Use um depurador para analisar o comportamento do seu código passo a passo.
-- [ ]  Participe de fóruns e comunidades online para discutir problemas e soluções com outros programadores.
-- [ ]  **Lembre-se:**
-- [ ]  A prática leva à perfeição! Quanto mais você praticar, melhor você se tornará em algoritmos e estruturas de dados.
+
+**Recursos Adicionais:**
+
+Lista de Exercícios de Algoritmos e Estruturas de Dados: 
+
+Problemas de Programação: https://www.urionlinejudge.com.br/
+
+GeeksforGeeks: https://www.geeksforgeeks.org/
+
+LeetCode: https://leetcode.com/
+
+**Dicas:**
+
+- Comece com os exercícios mais simples e avance gradualmente para os mais complexos.
+- Faça uma boa leitura e compreensão do problema antes de começar a codificar.
+- Teste seu código cuidadosamente e corrija os erros que encontrar.
+- Use um depurador para analisar o comportamento do seu código passo a passo.
+- Participe de fóruns e comunidades online para discutir problemas e soluções com outros programadores.
+
+**Lembre-se:**
+
+A prática leva à perfeição! Quanto mais você praticar, melhor você se tornará em algoritmos e estruturas de dados.
