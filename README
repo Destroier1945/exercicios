@@ -11,7 +11,7 @@
 - [x]  **Estruturas Condicionais:**
     - [x]  Ler três números e determinar o maior entre eles.
     - [X]  Ler um número e verificar se ele está entre um intervalo especificado.
-    - [ ]  Escrever um algoritmo que leia a nota de um aluno e determine se ele foi aprovado ou reprovado.
+    - [X]  Escrever um algoritmo que leia a nota de um aluno e determine se ele foi aprovado ou reprovado.
     - [ ]  Ler o sexo e a idade de uma pessoa e determinar se ela é maior de idade.
     - [ ]  Escrever um algoritmo que leia o valor de uma compra e calcule o desconto, de acordo com a forma de pagamento.
 - [ ]  **Estruturas de Repetição:**
