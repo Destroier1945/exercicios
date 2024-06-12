@@ -1,0 +1,65 @@
+<h1>Lista de exercícios</h1>
+
+
+- [x]  **Nível Básico:**
+- [x]  **Algoritmos Sequenciais:**
+    - [x]  Calcular a média de três números.
+    - [x]  Ler um número inteiro e verificar se ele é par ou ímpar.
+    - [x]  Calcular o fatorial de um número.
+    - [x]  Ler dois números e calcular a soma, subtração, multiplicação e divisão.
+    - [x]  Escrever um algoritmo que leia o valor de um produto e o valor pago, e calcule o troco.
+- [x]  **Estruturas Condicionais:**
+    - [x]  Ler três números e determinar o maior entre eles.
+    - [ ]  Ler um número e verificar se ele está entre um intervalo especificado.
+    - [ ]  Escrever um algoritmo que leia a nota de um aluno e determine se ele foi aprovado ou reprovado.
+    - [ ]  Ler o sexo e a idade de uma pessoa e determinar se ela é maior de idade.
+    - [ ]  Escrever um algoritmo que leia o valor de uma compra e calcule o desconto, de acordo com a forma de pagamento.
+- [ ]  **Estruturas de Repetição:**
+    - [ ]  Ler um número inteiro e imprimir os números de 1 a esse número.
+    - [ ]  Ler um número inteiro e imprimir os números pares de 1 a esse número.
+    - [ ]  Ler um número inteiro e imprimir a tabuada desse número.
+    - [ ]  Calcular a soma dos números de 1 a um número inteiro.
+    - [ ]  Escrever um algoritmo que leia um número e imprima a sua sequência de Fibonacci.
+- [ ]  **Nível Intermediário:**
+- [ ]  **Estruturas de Dados:**
+    - [ ]  Implementar uma lista encadeada e suas operações básicas (inserção, remoção, busca).
+    - [ ]  Implementar uma pilha e suas operações básicas (push, pop, peek).
+    - [ ]  Implementar uma fila e suas operações básicas (enqueue, dequeue, peek).
+    - [ ]  Implementar uma árvore binária de busca e suas operações básicas (inserção, remoção, busca).
+    - [ ]  Implementar um grafo e suas operações básicas (inserção de vértices e arestas, busca em profundidade, busca em largura).
+- [ ]  **Algoritmos de Ordenação:**
+    - [ ]  Implementar o algoritmo de ordenação por bolha.
+    - [ ]  Implementar o algoritmo de ordenação por seleção.
+    - [ ]  Implementar o algoritmo de ordenação por inserção.
+    - Implementar o algoritmo de ordenação rápida.
+    - Implementar o algoritmo de ordenação por mesclagem.
+- [ ]  **Algoritmos de Busca:**
+    - [ ]  Implementar a busca linear.
+    - [ ]  Implementar a busca binária.
+    - [ ]  Implementar a busca por interpolação.
+- [ ]  **Nível Avançado:**
+- [ ]  **Algoritmos Avançados:**
+    - [ ]  Implementar o algoritmo de Dijkstra para encontrar o menor caminho em um grafo.
+    - [ ]  Implementar o algoritmo de Kruskal para encontrar a árvore de menor custo em um grafo.
+    - [ ]  Implementar o algoritmo de Floyd-Warshall para encontrar as menores distâncias entre todos os pares de vértices em um grafo.
+    - [ ]  Implementar o algoritmo de busca em profundidade e busca em largura em um grafo.
+    - [ ]  Implementar o algoritmo de programação dinâmica para resolver o problema da mochila.
+- [ ]  **Estruturas de Dados Avançadas:**
+    - [ ]  Implementar uma árvore AVL.
+    - [ ]  Implementar uma árvore rubro-negra.
+    - [ ]  Implementar uma tabela hash.
+    - [ ]  Implementar um trie.
+    - [ ]  Implementar um bloom filter.
+- [ ]  **Recursos Adicionais:**
+- [ ]  Lista de Exercícios de Algoritmos e Estruturas de Dados:
+- [ ]  Problemas de Programação: https://www.urionlinejudge.com.br/
+- [ ]  GeeksforGeeks: https://www.geeksforgeeks.org/
+- [ ]  LeetCode: https://leetcode.com/
+- [ ]  **Dicas:**
+- [ ]  Comece com os exercícios mais simples e avance gradualmente para os mais complexos.
+- [ ]  Faça uma boa leitura e compreensão do problema antes de começar a codificar.
+- [ ]  Teste seu código cuidadosamente e corrija os erros que encontrar.
+- [ ]  Use um depurador para analisar o comportamento do seu código passo a passo.
+- [ ]  Participe de fóruns e comunidades online para discutir problemas e soluções com outros programadores.
+- [ ]  **Lembre-se:**
+- [ ]  A prática leva à perfeição! Quanto mais você praticar, melhor você se tornará em algoritmos e estruturas de dados.
