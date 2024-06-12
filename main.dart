@@ -1,5 +1,3 @@
-import 'maiornumero.dart';
-
 void main() {
-  maiorNumero();
+  print('WELCOME');
 }

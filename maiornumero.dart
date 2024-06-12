@@ -1,5 +1,9 @@
 import 'dart:io';
 
+void main() {
+  maiorNumero();
+}
+
 lerNumero(String mensagem) {
   print(mensagem);
   String? input;

@@ -9,7 +9,7 @@ void main() {
     input = stdin.readLineSync();
     if (input != null) {
       try {
-        return double.parse(input!);
+        return double.parse(input);
       } catch (e) {
         throw Exception(e);
       }
