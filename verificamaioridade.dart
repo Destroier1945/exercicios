@@ -11,7 +11,7 @@ void main() {
   } else if (sexo == 2) {
     print('Sexo feminino');
   } else {
-    print('Estrovenga');
+    print('Não declarado');
   }
   print('Qual a sua idade? ');
   idade = int.parse(stdin.readLineSync()!);
